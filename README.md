@@ -49,4 +49,7 @@ Here are some ideas to get you started:
 ---
 [![](https://visitcount.itsvg.in/api?id=yaaelahsan&icon=2&color=0)](https://visitcount.itsvg.in)
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
