@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=4stagasan&theme=hacker&card_width=600" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=4stagasan&theme=hacker&hide_border=true&card_width=600" alt="GitHub Streak" />
 </div>
 
 ---
