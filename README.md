@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=4stagasan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Irsan%20Romardi%20Harahap&descAlignY=50&descAlign=50" />
- <img src="https://komarev.com/ghpvc/?username=yaaelahsan&color=7B2FBE&style=for-the-badge&abbreviated=true" />
+ <img src="https://komarev.com/ghpvc/?username=4stagasan&color=7B2FBE&style=for-the-badge&abbreviated=true" />
 
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/yaaelahsan)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/yaaelahsann)
@@ -49,19 +49,19 @@ Here are some ideas to get you started:
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yaaelahsan&theme=hacker&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=4stagasan&theme=hacker&hide_border=true" />
 </div>
 
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yaaelahsan/yaaelahsan/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yaaelahsan/yaaelahsan/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/yaaelahsan/yaaelahsan/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/4stagasan/4stagasan/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/4stagasan/4stagasan/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/4stagasan/4stagasan/output/github-snake.svg" />
 </picture>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=yaaelahsan&icon=2&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=4stagasan&icon=2&color=0)](https://visitcount.itsvg.in)
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
